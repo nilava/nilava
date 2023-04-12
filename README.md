@@ -19,13 +19,13 @@ As a collaborative team player, I thrive in fast-paced environments and enjoy wo
 
 <br>
 
-- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **React Native** and **Backend Development** and **Bit of Data Science**💪 and **ML**❤️.
-- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/hmm.gif" width="20vw" /> Currently Learning **DevOps**🤯 and working on improving my **Data Structures** and **SQL** skills👨‍💻.
-- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I love making **iOT** and **Self Hosted** Projects👨‍💻 the most.
-- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/headbang.gif" width="20vw" /> I’m *open for collaboration*🧠 on **Any kind of projects**.
-- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness*😎 lies in my _laziness_ 😴
-- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
+- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/wave.gif" width="60px" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/gandalf_parrot.gif" width="60px" /> I’m **good** in **React Native** and **Backend Development** and **Bit of Data Science**💪 and **ML**❤️.
+- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/hmm.gif" width="60px" /> Currently Learning **DevOps**🤯 and working on improving my **Data Structures** and **SQL** skills👨‍💻.
+- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/gandalf_parrot.gif" width="60px" /> I love making **iOT** and **Self Hosted** Projects👨‍💻 the most.
+- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/headbang.gif" width="60px" /> I’m *open for collaboration*🧠 on **Any kind of projects**.
+- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/coin.gif" width="60px" /> **Fun fact:** My *smartness*😎 lies in my _laziness_ 😴
+- <img alt="GIF" src="https://github.com/nilava/nilava/blob/master/Assets/Medal.gif" width="60px" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
   <br>
 
 <!-- ## Spotify Playing 🎧
