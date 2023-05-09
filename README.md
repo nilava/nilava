@@ -4,16 +4,16 @@
 <img src="https://github.com/nilava/nilava/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/nilava/nilava/blob/master/Assets/Earth.gif" width="24px">
 </p>
 <p>
-Hi, I am Nilava Chowdhury a Full Stack Software Engineer specialising in React Native, I deeply understand both front-end and back-end development. With a focus on delivering high-quality software solutions, I have a proven track record of developing mobile applications that meet the needs of clients and end-users alike.
+Hello, I'm Nilava Chowdhury, a Full Stack Software Engineer specializing in React Native. I possess a deep understanding of both front-end and back-end development, with a focus on delivering high-quality software solutions. Throughout my career, I have developed mobile applications that effectively cater to the needs of clients and end-users.
 
-One of my notable accomplishments as a Full Stack Software Engineer includes implementing Android Native Module and iOS Native Module for step counting, which enhanced the functionality of the application and increased its accuracy. Additionally, I have integrated third-party smartwatches and fitness trackers into mobile applications, which streamlined the user experience and provided users with access to real-time data. Furthermore, I created an Apple Watch app for workout tracking, which allowed users to track their fitness activities from their wrists.
+One of my notable achievements as a Full Stack Software Engineer was the successful implementation of Android Native Module and iOS Native Module for step counting. This enhancement significantly improved the application's functionality and accuracy. Additionally, I integrated third-party smartwatches and fitness trackers into mobile applications, resulting in a streamlined user experience and real-time data accessibility. Furthermore, I developed an Apple Watch app for workout tracking, enabling users to monitor their fitness activities conveniently from their wrists.
 
-In addition to my expertise in React Native, I am proficient in other front-end technologies such as React, JavaScript, HTML, CSS, and jQuery. On the back end, I have experience with Node.js, Express, SQL and MongoDB, among other technologies. I introduced a new Live Activities API, which enabled users to track their activities in real-time and provided insights into their fitness routines I also leveraged SSL Pinning for application security, ensuring that user data is protected at all times.
+In addition to my expertise in React Native, I am proficient in other front-end technologies such as React, JavaScript, HTML, CSS, and jQuery. On the back end, I have extensive experience with Node.js, Express, SQL, and MongoDB, among other technologies. I have contributed to the development of a Live Activities API, which allows users to track their activities in real-time and gain insights into their fitness routines. Moreover, I have implemented SSL Pinning for application security, ensuring the protection of user data at all times.
 
-As a collaborative team player, I thrive in fast-paced environments and enjoy working on challenging projects. My excellent problem-solving skills, attention to detail, and ability to communicate complex technical concepts to non-technical stakeholders make me an asset to any team. I am passionate about creating innovative solutions that address real-world problems, and I am excited about the opportunity to contribute my skills and experience to a dynamic organisation.
+As a collaborative team player, I thrive in fast-paced environments and enjoy working on challenging projects. My excellent problem-solving skills, attention to detail, and ability to communicate complex technical concepts to non-technical stakeholders make me an invaluable asset to any team. I am passionate about creating innovative solutions that address real-world problems, and I am excited about the opportunity to contribute my skills and experience to a dynamic organization.
 
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains. New technologies get me very excited and awakens my insect to learn it :).  
-  
+⚡ Fun fact: I love connecting with people and learning about their journeys. It broadens my perspective on various domains. I also get incredibly excited about exploring new technologies, and I'm always eager to learn.
+
 💬 Feel free to reach out to me! :D
 </p>
 
